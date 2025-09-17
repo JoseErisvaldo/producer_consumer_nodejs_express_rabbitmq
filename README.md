@@ -18,6 +18,7 @@ Ambos utilizam **Express**, **TypeScript** e **RabbitMQ**.
 - Docker (para RabbitMQ e PostgreSQL)
 - class-validator (Producer)
 - ts-node-dev (hot reload em desenvolvimento)
+- Bruno api - https://www.usebruno.com/
 
 ---
 
